@@ -447,7 +447,7 @@ i {
   display: flex;
   flex-wrap: wrap;
   align-self: center;
-  justify-content: space-between;
+  justify-content: space-around;
   gap: 20px;
   padding: 20px;
   background-color: var(--C12);
@@ -500,6 +500,7 @@ i {
   color: var(--C00);
   font-size: 1.25em;
   padding-bottom: 32px;
+  margin-top: -10px;
 }
 
 /* Extra pequeno (xs) - Telas menores ou iguais a 575px */

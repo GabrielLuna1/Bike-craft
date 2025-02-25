@@ -103,7 +103,6 @@ span {
   gap: 20px;
   padding: 20px;
   background-color: var(--C12);
-  height: 100vh;
 }
 .container h1 {
   color: var(--C00);
@@ -124,7 +123,6 @@ span {
   color: var(--C00);
   margin-top: 20px;
   margin-left: 70px;
-  margin-bottom: 22px;
   margin-bottom: 100px;
 }
 
